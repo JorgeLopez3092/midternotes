@@ -1,0 +1,2 @@
+# midternotes
+notes for midterm
